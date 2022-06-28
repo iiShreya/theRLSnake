@@ -62,7 +62,8 @@ example:
                    
   actions:\
   [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1]
-                 
+# Deep Neural Network:
+![Alt Text](https://raw.githubusercontent.com/iiShreya/theRLSnake/master/images/state.gif)
 # Deep Q Learning:
 
 ## Q Value: quality of action
