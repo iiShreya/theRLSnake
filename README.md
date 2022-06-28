@@ -73,4 +73,4 @@ example:
 6. repeat steps 2, 3, 4
 
 # Q Learning Equaltion:
-![Alt Text](https://medium.com/@curiousily/solving-an-mdp-with-q-learning-from-scratch-deep-reinforcement-learning-for-hackers-part-1-45d1d360c120#:~:text=This%20equation%2C%20known%20as%20the,the%20Bellman%20equation%20described%20above.)
+![Alt Text]([https://medium.com/@curiousily/solving-an-mdp-with-q-learning-from-scratch-deep-reinforcement-learning-for-hackers-part-1-45d1d360c120#:~:text=This%20equation%2C%20known%20as%20the,the%20Bellman%20equation%20described%20above.](https://miro.medium.com/max/1400/1*2APPuDNSpWMlaiin7R0C9g.png))
