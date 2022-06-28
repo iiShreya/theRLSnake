@@ -36,8 +36,8 @@ Linear_QNet(DQN)
   -action
   
 ## Action
-[1, 0, 0] -> striaght
-[0, 1, 0] -> right turn
+[1, 0, 0] -> striaght\
+[0, 1, 0] -> right turn\
 [0, 0, 1] -> left turn
 
 ## State(11 values)
@@ -55,12 +55,12 @@ Linear_QNet(DQN)
 example:
 
 
-0000000000000
------------->
-                   []
+0000000000000\
+------------>\
+                   []\
                    
                    
-  actions:
+  actions:\
   [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1]
                    
                    
