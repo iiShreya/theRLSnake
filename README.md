@@ -84,4 +84,5 @@ Qnew = R + γ.max(Q(state_1))
 # Deep Q-Learning Pseudocode:
 ![alt Text](https://drive.google.com/file/d/1oI9ffFhiXGXZBC18QFlTHV6FqbrbciWc/view?usp=sharing)
 # Implementation Video:
+
 [GDrive Video of Implementation](https://drive.google.com/file/d/1liInkGQjbtD_bQ4DQUi2C6PKKJphPrn6/view?usp=sharing)
