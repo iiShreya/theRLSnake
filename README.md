@@ -13,7 +13,7 @@ Simply, reinforcement learning is teaching a software agent how to behave in an 
 ## Environment : the game 
 ## Reward: scores given to determine which actions the snake should take in order to move to the next state. 
 
-# Part 1:
+# ! Part 1:
 ## Agent:
 - game
 - model
