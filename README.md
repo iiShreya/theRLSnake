@@ -63,5 +63,14 @@ example:
   actions:\
   [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1]
                    
-                   
+# Deep Q Learning:
+## Q Value: quality of action
+1. initialize Q value 
+2. Choose an action
+3. Perform the action
+4. Measure the reward
+5. Update Q value (+ train the model)
+repeat steps 2, 3, 4
+
+
   
