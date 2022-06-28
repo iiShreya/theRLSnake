@@ -73,10 +73,10 @@ example:
 5. Update Q value (+ train the model)
 6. repeat steps 2, 3, 4
 
-# Q Learning Equaltion:
+# Q Learning Equation:
 
 ![Alt Text](https://media.geeksforgeeks.org/wp-content/uploads/20210612113008/image2.png)
 
 ## Q Update Rule Simplified:
-Q = model.predict(state_0)
+Q = model.predict(state_0)\
 Qnew = R + γ.max(Q(state_1))
