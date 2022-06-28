@@ -80,3 +80,6 @@ example:
 ## Q Update Rule Simplified:
 Q = model.predict(state_0)\
 Qnew = R + γ.max(Q(state_1))
+
+# Implementation Video:
+[GDrive Video of Implementation](https://drive.google.com/file/d/1liInkGQjbtD_bQ4DQUi2C6PKKJphPrn6/view?usp=sharing)
