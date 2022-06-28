@@ -70,7 +70,7 @@ example:
 3. Perform the action
 4. Measure the reward
 5. Update Q value (+ train the model)
-repeat steps 2, 3, 4
+6. repeat steps 2, 3, 4
 
 
   
