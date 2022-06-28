@@ -35,3 +35,33 @@ Linear_QNet(DQN)
 - model.predict(state)
   -action
   
+## Action
+[1, 0, 0] -> striaght
+[0, 1, 0] -> right turn
+[0, 0, 1] -> left turn
+
+## State(11 values)
+- danger straight
+- danger right
+- danger left
+- direction up
+- direction down
+- direction left
+- direction right
+- food left
+- food right
+- food up
+- food down
+example:
+
+
+0000000000000
+------------>
+                   []
+                   
+                   
+  actions:
+  [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1]
+                   
+                   
+  
