@@ -63,7 +63,7 @@ example:
   actions:\
   [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1]
 ```diff                  
-# !Deep Q Learning:
+!Deep Q Learning:
 ```
 ## Q Value: quality of action
 1. initialize Q value 
