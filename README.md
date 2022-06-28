@@ -62,9 +62,9 @@ example:
                    
   actions:\
   [0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1]
-```diff                   
-# ! Deep Q Learning:
-```
+                  
+# Deep Q Learning:
+
 ## Q Value: quality of action
 1. initialize Q value 
 2. Choose an action
@@ -74,4 +74,6 @@ example:
 6. repeat steps 2, 3, 4
 
 # Q Learning Equaltion:
+```diff
 ![Alt Text](https://miro.medium.com/max/1400/1*2APPuDNSpWMlaiin7R0C9g.png)
+```
